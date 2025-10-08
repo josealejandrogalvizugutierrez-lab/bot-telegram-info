@@ -1,0 +1,13 @@
+SERVICE_PRICES = {
+    'ai_chat': 0.001,
+    'sticker': 0.02,
+    'image_restore': 0.008,
+    'image_generate': 0.02,
+    'image_edit_banana': 0.04,
+    'image_merge_banana': 0.04,
+    'music_generate': 0.044,
+    'transcribe': 0.012,
+    'tts': 0.016,
+    'text_to_video': 0.2,
+    'image_to_video': 0.2,
+    'demucs': 0.04,
